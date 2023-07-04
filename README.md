@@ -1,4 +1,4 @@
-# D_PlayWithData
+# Data Playground
 A simple scalable code set to analyze and visualize data
 
 ## Toy-LineChart
